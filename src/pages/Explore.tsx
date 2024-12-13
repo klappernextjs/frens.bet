@@ -17,7 +17,7 @@ export default function Explore() {
           <span className="text-gray-900">bet</span>
         </h1>
         <p className="text-gray-600 text-lg md:text-xl">
-          precious spaces online and onchain
+          Challenge your friends.
         </p>
       </div>
 
